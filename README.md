@@ -3,10 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-deepa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/deepalakshmi-s-1052ba245/)]
 (https://www.linkedin.com/in/deepalakshmi-s-1052ba245/)
 
-I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs), design (working closely with designers), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX),database(MongoDB,Mysql)
-
+I'm Fresher Graduate with 11 months internship experience in Philips Innovation Campus. 
 
 ![Visitor Count](https://profile-counter.glitch.me/deepa0101/count.svg)
 
